@@ -1,0 +1,30 @@
+
+.top-menu {
+    background: #1976d2;
+    padding: 2px 15px;
+}
+
+.logo {
+  max-height: 55px;
+}
+
+
+.courses {
+    max-width: 400px;
+    margin: 50px auto;
+    box-shadow: 1px 2px 6px  #333;
+   
+}
+.course-card{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.course-description{
+  text-align: center ;
+}
+
+
+
+
