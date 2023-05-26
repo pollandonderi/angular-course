@@ -1,0 +1,16 @@
+.course-card{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+  .course-description{
+    text-align: center ;
+  }
+  .viewbutton{
+    background-color: rgba(0, 0, 255, 0.781);
+    padding-inline: 2em;
+    padding-block: .8em;
+    border-radius: 9px;
+    cursor: pointer;
+  }
